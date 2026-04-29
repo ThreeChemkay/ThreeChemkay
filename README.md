@@ -1,2 +1,8 @@
 ## I am Chemkay
-[My Website](http://chemkay.com)
+[My website](http://chemkay.com)
+
+- Self-proclaimed developer
+-  User of Node.js
+- ?????
+
+...hell yea
